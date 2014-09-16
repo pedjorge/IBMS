@@ -1,0 +1,34 @@
+//import windows.*;
+import java.awt.*; 
+import java.awt.event.*;
+import javax.swing.*; 
+
+// Create a simple GUI window
+public class IBMS {
+
+  public static void main(String[] args) {
+    database.openBusDatabase();
+    
+    /*int driverNumber = Integer.parseInt(
+      JOptionPane.showInputDialog ("Please enter your Driver ID:")
+    );
+    String driverName = DriverInfo.getName(driverNumber);
+
+    /*
+    int[] driverIDs = DriverInfo.getDrivers();
+    String[] driverNames = new String [driverIDs.length];
+    for (int i=0; i<driverIDs.length; i++)
+      System.out.println(DriverInfo.getName(driverIDs[i]));
+    */
+    /*
+    System.out.println(driverName);
+		BusDriver busDriverWindow = new BusDriver(driverName);
+    busDriverWindow.createMainWindow();
+    */
+    database.openBusDatabase();
+    String driverNo = JOptionPane.showInputDialog ("Please enter your Driver Number"); 
+		BusDriver busDriverWindow = new BusDriver(driverNo);
+    busDriverWindow.createMainWindow();
+  }
+
+}

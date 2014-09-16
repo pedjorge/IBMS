@@ -1,0 +1,815 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"JTe",
+				"JTextArea"
+			],
+			[
+				"Jt",
+				"JTextComponent"
+			],
+			[
+				"pr",
+				"printStackTrace"
+			],
+			[
+				"te",
+				"textArea"
+			],
+			[
+				"Ac",
+				"ActionEvent"
+			],
+			[
+				"show",
+				"showFileDialogButton"
+			],
+			[
+				"JF",
+				"JFileChooser"
+			],
+			[
+				"q",
+				"quitButton"
+			],
+			[
+				"J",
+				"JPanel"
+			],
+			[
+				"ad",
+				"adjustGradient"
+			],
+			[
+				"f",
+				"frame"
+			],
+			[
+				"bus",
+				"bus"
+			],
+			[
+				"we",
+				"welcomeText"
+			],
+			[
+				"D",
+				"Dimension"
+			],
+			[
+				"se",
+				"setPreferredSize"
+			],
+			[
+				"user",
+				"userIdentityPanel"
+			],
+			[
+				"de",
+				"deriveFont"
+			],
+			[
+				"set",
+				"setFont"
+			],
+			[
+				"P",
+				"PAGE_START"
+			],
+			[
+				"Bo",
+				"BorderLayout"
+			],
+			[
+				"vi",
+				"viewRosterOptions"
+			],
+			[
+				"gr",
+				"gridwidth"
+			],
+			[
+				"dr",
+				"driverNumber"
+			],
+			[
+				"B",
+				"BorderLayout"
+			],
+			[
+				"DB",
+				"DBOperations"
+			],
+			[
+				"main",
+				"mainPanel"
+			],
+			[
+				"draw",
+				"drawLabel"
+			],
+			[
+				"dra",
+				"draw_orbits"
+			],
+			[
+				"IF",
+				"if"
+			],
+			[
+				"b",
+				"bodies"
+			],
+			[
+				"GLUT",
+				"GLUT_BITMAP_TIMES_ROMAN_24"
+			],
+			[
+				"gl",
+				"glColor3f"
+			],
+			[
+				"glut",
+				"glutBitmapCharacter"
+			],
+			[
+				"drawSt",
+				"drawString"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"o",
+				"orbits_body"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"drawS",
+				"drawString"
+			],
+			[
+				"or",
+				"orbits_body"
+			],
+			[
+				"DE",
+				"DEG_TO_RAD"
+			],
+			[
+				"orbit",
+				"orbit"
+			],
+			[
+				"orbits",
+				"orbits_body"
+			],
+			[
+				"ra",
+				"radius"
+			],
+			[
+				"bi",
+				"bodies"
+			],
+			[
+				"glu",
+				"gluLookAt"
+			],
+			[
+				"g",
+				"g"
+			],
+			[
+				"O",
+				"ORBIT_POLY_SIDES"
+			],
+			[
+				"orbital",
+				"orbital_tilt"
+			],
+			[
+				"a",
+				"axis_tilt"
+			],
+			[
+				"glL",
+				"glLoadIdentity"
+			],
+			[
+				"GL",
+				"GL_MODELVIEW"
+			],
+			[
+				"ax",
+				"axis_tilt"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"MAX",
+				"MAX_STARS"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"solution",
+				"solution_vec"
+			],
+			[
+				"solu",
+				"solution_vec"
+			],
+			[
+				"so",
+				"solution2"
+			],
+			[
+				"sol",
+				"Solution"
+			],
+			[
+				"cop",
+				"copy_array"
+			],
+			[
+				"copy",
+				"copy_array"
+			],
+			[
+				"s",
+				"struc_sol"
+			],
+			[
+				"struc",
+				"struc_sol"
+			],
+			[
+				"remove",
+				"removeMax"
+			],
+			[
+				"ite",
+				"item_weights"
+			],
+			[
+				"curre",
+				"current_best"
+			],
+			[
+				"cu",
+				"current_best"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"fra",
+				"frac_bound"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"Ni",
+				"Nitems-1"
+			],
+			[
+				"v",
+				"val"
+			],
+			[
+				"item",
+				"item_values"
+			],
+			[
+				"ex",
+				"extraWeight"
+			],
+			[
+				"compu",
+				"computedWeight"
+			],
+			[
+				"i",
+				"item_weights"
+			],
+			[
+				"temp",
+				"temp_indexes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/mbax2al2/t13-super-duper-ibms/IBMS/BusService.java",
+			"settings":
+			{
+				"buffer_size": 2441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mbax2al2/t13-super-duper-ibms/IBMS/IBMS.java",
+			"settings":
+			{
+				"buffer_size": 4865,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mbax2al2/t13-super-duper-ibms/IBMS/test.java",
+			"settings":
+			{
+				"buffer_size": 453,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "BusDriver.java",
+			"settings":
+			{
+				"buffer_size": 18286,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Controller.java",
+			"settings":
+			{
+				"buffer_size": 14410,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mbax2al2/t13-super-duper-ibms/IBMS/DBOperations.java",
+			"settings":
+			{
+				"buffer_size": 5460,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mbax2al2/t13-super-duper-ibms/IBMS/Roster.java",
+			"settings":
+			{
+				"buffer_size": 5615,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Window.java",
+			"settings":
+			{
+				"buffer_size": 455,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mbax2al2/t13-super-duper-ibms/IBMS/database/database.java",
+			"settings":
+			{
+				"buffer_size": 14452,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mbax2al2/t13-super-duper-ibms/IBMS/DBOperations.java",
+		"/home/mbax2al2/t13-super-duper-ibms/IBMS/database/database.java",
+		"/home/mbax2al2/t13-super-duper-ibms/IBMS/test.java",
+		"/home/mbax2al2/t13-super-duper-ibms/IBMS/windows/Window.java",
+		"/home/mbax2al2/t13-super-duper-ibms/IBMS/windows/Controller.java",
+		"/home/mbax2al2/t13-super-duper-ibms/IBMS/windows/BusDriver.java",
+		"/home/mbax2al2/t13-super-duper-ibms/IBMS/IBMS.java",
+		"/home/mbax2al2/COMP27112/ex2/ex2.c",
+		"/home/mbax2al2/COMP24412/ex2/ex2.pl",
+		"/home/mbax2al2/COMP26120/ex11/knapsack-util.c",
+		"/home/mbax2al2/COMP26120/ex11/greedy.c",
+		"/home/mbax2al2/COMP26120/ex11/enum.c",
+		"/home/mbax2al2/COMP26120/ex11/dp.c",
+		"/home/mbax2al2/COMP26120/ex11/bnb.c",
+		"/home/mbax2al2/COMP27112/ex2/sys",
+		"/home/mbax2al2/.my_bashrc.all",
+		"/home/mbax2al2/.my_bashrc.all.bck",
+		"/home/mbax2al2/.my_bashrc.all~",
+		"/home/mbax2al2/.my_bashrc_all",
+		"/home/mbax2al2/COMP27112/ex2/ex2a.c",
+		"/home/mbax2al2/COMP27112/Examples/thegears.c",
+		"/home/mbax2al2/COMP27112/ex1/ex1.c",
+		"/home/mbax2al2/COMP27112/cwk1/teapot.c",
+		"/home/mbax2al2/COMP26120/ex11/example.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"busS",
+			"Driver",
+			"QUIT",
+			"t13.jpg",
+			"bus.jpg",
+			"busLabel.setVerticalALignment",
+			"getVerticalAlignment",
+			"frame",
+			"mainPanel",
+			"drawLabel",
+			"help",
+			"draw_help",
+			"readSystem",
+			"gluLookAt()",
+			"setView",
+			"current_best"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/mbax2al2/t13-super-duper-ibms/IBMS/BusService.java",
+					"settings":
+					{
+						"buffer_size": 2441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1239.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/mbax2al2/t13-super-duper-ibms/IBMS/IBMS.java",
+					"settings":
+					{
+						"buffer_size": 4865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/mbax2al2/t13-super-duper-ibms/IBMS/test.java",
+					"settings":
+					{
+						"buffer_size": 453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "BusDriver.java",
+					"settings":
+					{
+						"buffer_size": 18286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Controller.java",
+					"settings":
+					{
+						"buffer_size": 14410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5751,
+								5751
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/mbax2al2/t13-super-duper-ibms/IBMS/DBOperations.java",
+					"settings":
+					{
+						"buffer_size": 5460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/mbax2al2/t13-super-duper-ibms/IBMS/Roster.java",
+					"settings":
+					{
+						"buffer_size": 5615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2735.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Window.java",
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/mbax2al2/t13-super-duper-ibms/IBMS/database/database.java",
+					"settings":
+					{
+						"buffer_size": 14452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"e",
+				"/home/mbax2al2/COMP27112/ex2/ex2.c"
+			],
+			[
+				"",
+				"/home/mbax2al2/COMP27112/ex2/sys"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/mbax2al2/COMP28112/ex2/uk/ac/manchester/cs/comp28112/lab2/client.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
